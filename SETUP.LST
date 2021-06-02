@@ -34,7 +34,7 @@ AppToUninstall=toonConvert.exe
 
 [Setup1 Files]
 File1=@MSINET.Ocx,$(WinSysPath),$(DLLSelfRegister),$(Shared),3/27/15 12:25:00 PM,131728,6.1.98.39
-File2=@toonConvert.exe,$(AppPath),,,6/2/21 6:32:29 PM,36864,1.0.0.0
+File2=@toonConvert.exe,$(AppPath),,,6/2/21 11:02:40 PM,36864,1.0.0.0
 
 ; The following lines may be deleted in order to obtain extra 
 ; space for customizing this file on a full installation diskette.
